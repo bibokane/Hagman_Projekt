@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Hagman_Projekt\Hagman_Projekt\bin\Debug\Hagman_Projekt.exe.config
+C:\Users\User\source\repos\Hagman_Projekt\Hagman_Projekt\bin\Debug\Hagman_Projekt.exe
+C:\Users\User\source\repos\Hagman_Projekt\Hagman_Projekt\bin\Debug\Hagman_Projekt.pdb
+C:\Users\User\source\repos\Hagman_Projekt\Hagman_Projekt\obj\Debug\Hagman_Projekt.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Hagman_Projekt\Hagman_Projekt\obj\Debug\Hagman_Projekt.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Hagman_Projekt\Hagman_Projekt\obj\Debug\Hagman_Projekt.exe
+C:\Users\User\source\repos\Hagman_Projekt\Hagman_Projekt\obj\Debug\Hagman_Projekt.pdb
